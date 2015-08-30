@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 pack_name='pyconstants'
-pack_version='0.3'
+pack_version='0.4'
 pack_description='Important physical constants'
 pack_author='Simon Zeller, Adrian Schlatter'
 

@@ -21,6 +21,13 @@ epsilon0 = 8.854187e-12  # A s V**-1 m**-1
 
 sigma = 56.6961e-9  # W m**-2 K**-4
 
+# Time units:
+minute = 60.    # s
+hour = 60.*minute
+day = 24.*hour
+week = 7.*day
+year = 365.25*day
+
 # Textile stuff
 Ne = 1.693e3 # m/kg
 Nm = 1e3 # m/kg
