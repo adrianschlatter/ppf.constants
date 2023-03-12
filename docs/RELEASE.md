@@ -37,10 +37,10 @@ twine upload dist/*
 ## Test Install
 
 Activate an environment that does not have a (development-) installation of
-ppf.docmap. Run
+ppf.constants. Run
 
 ```
-pip install ppf.docmap
+pip install ppf.constants
 ```
 
 This should download and install the version you've just released.
