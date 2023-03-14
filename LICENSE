@@ -1,4 +1,4 @@
-ppf.docmap is a Python package to find links in and crawl documents.
+ppf.constants is a Python package providing physical constants and units.
 
 Copyright (c) 2023, Adrian Schlatter
 
