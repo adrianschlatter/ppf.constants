@@ -1,5 +1,7 @@
 # ppf.constants
 
+<img alt="pypi downloads/month" src="https://img.shields.io/pypi/dm/ppf.constants.svg">
+
 ppf.constants is a python package to provide physical constants and units.
 
 
