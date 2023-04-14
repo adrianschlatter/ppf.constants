@@ -12,6 +12,7 @@ Make sure that you:
 From the root of the project folder, run
 
 ```
+rm -rf dist/
 python3 -m build .
 ```
 
